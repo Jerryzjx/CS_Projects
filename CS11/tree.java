@@ -4,7 +4,7 @@
 // import
 import java.util.*;
 import java.lang.*;
-public class Main {
+public class tree {
 // initialize and declare global varibles here
 // Text colors to display
     public static final String ANSI_RESET = "\u001B[0m";
