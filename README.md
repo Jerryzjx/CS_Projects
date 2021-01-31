@@ -1,2 +1,3 @@
 # CS_Projects
-Hello World
+
+This Repo is for all of my computer science class projects
