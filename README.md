@@ -1,3 +1,3 @@
 # CS_Projects
 
-This Repo is for all of my computer science class projects
+:computer: This repository includes the projects that I made during Computer Science class since Grade 10.
