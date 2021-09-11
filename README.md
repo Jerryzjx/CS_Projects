@@ -2,11 +2,9 @@
 
 :computer: This repository includes the projects that I made during Computer Science class since Grade 10.
 
-- [ ] Computer Science 10
+- [ ] ICS2O
 
-* To Do: Upload all CS10 Projects
+- [ ] ICS3U
 
-- [ ] Computer Science 11
-
-* To Do: Finish and Upload all CS11 Projects
+- [ ] ICS4U
 
