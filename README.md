@@ -1,8 +1,6 @@
 # CS_Projects
 
-:computer: This repository includes the projects that I made during Computer Science class since Grade 10.
-
-- [X] ICS2O
+:computer: This repository includes the projects that I made during Computer Science class since Grade 11.
 
 - [X] ICS3U
 
